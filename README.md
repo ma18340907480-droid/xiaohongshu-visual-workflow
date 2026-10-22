@@ -82,6 +82,15 @@ python3 scripts/make_sleep_timetable.py
 
 其余 4 页在示例目录里。复现脚本在 [`scripts/make_mama_mental_load.py`](scripts/make_mama_mental_load.py)，运行后直接覆盖输出到 `examples/mama-mental-load/`（已校验与成品逐像素一致）。
 
+## 示例三：《带娃最累的不是身体》（高收藏知识卡版）
+
+与示例二同一篇文章的另一种做法：主栏目 ③极简信息图（高收藏知识卡）＋摄影页混搭，系列「妈妈安心指南」。借鉴爆款的只有内容组织方式与收藏逻辑，设计为自有系统。设计说明见 [`examples/mama-anxiety-cards/README.md`](examples/mama-anxiety-cards/README.md)。
+
+![封面](examples/mama-anxiety-cards/p1.png)
+![误区对照页](examples/mama-anxiety-cards/p6.png)
+
+其余 5 页在示例目录里。复现脚本在 [`scripts/make_mama_anxiety_cards.py`](scripts/make_mama_anxiety_cards.py)（已校验与成品逐像素一致）。
+
 ## 体系演进
 
 这套体系是实战中被读者反馈一路逼出来的，三代演进：
