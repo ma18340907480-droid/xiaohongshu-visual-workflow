@@ -73,6 +73,15 @@ python3 scripts/make_sleep_timetable.py
 # 输出到 examples/sleep-timetable/output/
 ```
 
+## 示例二：《生完孩子才发现，真正累的不是带娃》（情绪共鸣篇）
+
+栏目搭配：主栏目 ④情绪故事感＋副栏目 ①真实生活摄影感，全摄影、无信息卡，逐页版式各不相同。设计说明见 [`examples/mama-mental-load/README.md`](examples/mama-mental-load/README.md)。
+
+![封面](examples/mama-mental-load/p1.png)
+![深夜搜索页](examples/mama-mental-load/p3.png)
+
+其余 4 页在示例目录里。复现脚本在 [`scripts/make_mama_mental_load.py`](scripts/make_mama_mental_load.py)，运行后直接覆盖输出到 `examples/mama-mental-load/`（已校验与成品逐像素一致）。
+
 ## 体系演进
 
 这套体系是实战中被读者反馈一路逼出来的，三代演进：
